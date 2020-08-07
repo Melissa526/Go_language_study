@@ -1,4 +1,4 @@
-# Go
+# <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>Go 
 노마드코더 따거와 함께하는 Go, Getting Started
 
 #### Chapter1
