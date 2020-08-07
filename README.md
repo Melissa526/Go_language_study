@@ -8,7 +8,7 @@
 - [ ] () Pointers, Arrays and Slices
 - [ ] () Maps, Structs
 
-#### Chapter2 - BANK & DICTIONARY PROJECTS
+#### Chapter2 - Banj & Dictionary Projects
 
 #### Chapter3 - URL Checker & Go Routines
 
