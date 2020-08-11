@@ -5,7 +5,7 @@
 - [x] (2020.08.05) Packages and Imports
 - [x] (2020.08.07) Variable and Constants, Functions
 - [x] (2020.08.10) for, range, ...args, If with a Twist, Switch
-- [ ] () Pointers, Arrays and Slices, Maps, Structs
+- [x] (2020.08.11) Pointers, Arrays and Slices, Maps, Structs
 
 #### Chapter2 - Banj & Dictionary Projects
 - [ ] () Accounts, Methods Part I, II
