@@ -7,7 +7,7 @@
 - [x] (2020.08.10) for, range, ...args, If with a Twist, Switch
 - [x] (2020.08.11) Pointers, Arrays and Slices, Maps, Structs
 
-#### Chapter2 - Banj & Dictionary Projects
+#### Chapter2 - Bank & Dictionary Projects
 - [ ] () Accounts, Methods Part I, II
 - [ ] () Finishing Up, Dictionary Part I
 - [ ] () Add Method, Update, Delete
