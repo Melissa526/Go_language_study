@@ -9,7 +9,7 @@
 - [x] (2020.08.20) Structs
 
 #### Chapter2 - Bank & Dictionary Projects
-- [ ] () Accounts, Methods Part I, II
+- [x] (2020.09.22) Accounts, Methods Part I, II
 - [ ] () Finishing Up, Dictionary Part I
 - [ ] () Add Method, Update, Delete
 
